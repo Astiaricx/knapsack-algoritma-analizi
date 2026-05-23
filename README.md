@@ -1,10 +1,7 @@
 # Knapsack Probleminde DP vs Genetik Algoritma
 
-**Manisa Celal Bayar Üniversitesi — Yazılım Mühendisliği Bölümü**  
-**Algoritma Analizi ve Tasarımı Dersi — 2025-2026 Bahar Dönemi**  
-**Abdullah Durgun, Mustafa Yaşar Eroğlu**
 
----
+
 
 ## Proje Hakkında
 
