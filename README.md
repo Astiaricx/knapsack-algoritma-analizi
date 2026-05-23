@@ -18,7 +18,6 @@ Bu projede 0/1 Sırt Çantası Problemi (Knapsack Problem) üzerinde iki farklı
 | `dp_cozum.py` | Dinamik Programlama çözümü |
 | `ga_cozum.py` | Genetik Algoritma çözümü |
 | `main.py` | Tüm deneyleri çalıştırır, grafikleri üretir |
-| `bildiri.tex` | LaTeX akademik bildiri |
 
 ## Kurulum ve Çalıştırma
 
