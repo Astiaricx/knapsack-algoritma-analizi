@@ -1,0 +1,26 @@
+[
+  {
+    "n": 100,
+    "dp_deger": 4065,
+    "dp_sure": 0.015482899965718389,
+    "ga_deger": 4056,
+    "ga_sure": 0.7898543999763206,
+    "accuracy_gap": 0.22
+  },
+  {
+    "n": 1000,
+    "dp_deger": 40397,
+    "dp_sure": 1.7253506000852212,
+    "ga_deger": 31937,
+    "ga_sure": 1.592860299977474,
+    "accuracy_gap": 20.94
+  },
+  {
+    "n": 10000,
+    "dp_deger": null,
+    "dp_sure": null,
+    "ga_deger": 273119,
+    "ga_sure": 4.3590636000735685,
+    "accuracy_gap": null
+  }
+]
